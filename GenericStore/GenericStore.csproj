@@ -5,10 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Business\Shared\" />
-    <Folder Include="Models\" />
     <Folder Include="Controllers\" />
-    <Folder Include="DataAccess\" />
+    <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
   </ItemGroup>
 
